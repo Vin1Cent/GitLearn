@@ -8,4 +8,6 @@ Date:
 public class Class5 {
 
     //Class 5 changed
+
+    //new2
 }
